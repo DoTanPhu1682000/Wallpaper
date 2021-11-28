@@ -16,17 +16,17 @@ class MainActivity : AppCompatActivity(), OnWallpaperItemClickListener {
     private lateinit var adapter: WallpaperAdapter
     private val wallpapers = listOf(
         Wallpaper(R.drawable.january, "January", "Phu"),
-        Wallpaper(R.drawable.february, "february", "Phu"),
-        Wallpaper(R.drawable.march, "march", "Phu"),
-        Wallpaper(R.drawable.april, "april", "Phu"),
-        Wallpaper(R.drawable.may, "may", "Phu"),
-        Wallpaper(R.drawable.june, "june", "Phu"),
-        Wallpaper(R.drawable.july, "july", "Phu"),
-        Wallpaper(R.drawable.september, "september", "Phu"),
-        Wallpaper(R.drawable.august, "august", "Phu"),
-        Wallpaper(R.drawable.october, "october", "Phu"),
-        Wallpaper(R.drawable.november, "november", "Phu"),
-        Wallpaper(R.drawable.december, "december", "Phu")
+        Wallpaper(R.drawable.february, "February", "Phu"),
+        Wallpaper(R.drawable.march, "March", "Phu"),
+        Wallpaper(R.drawable.april, "April", "Phu"),
+        Wallpaper(R.drawable.may, "May", "Phu"),
+        Wallpaper(R.drawable.june, "June", "Phu"),
+        Wallpaper(R.drawable.july, "July", "Phu"),
+        Wallpaper(R.drawable.august, "August", "Phu"),
+        Wallpaper(R.drawable.september, "September", "Phu"),
+        Wallpaper(R.drawable.october, "October", "Phu"),
+        Wallpaper(R.drawable.november, "November", "Phu"),
+        Wallpaper(R.drawable.december, "December", "Phu")
     )
 
 
